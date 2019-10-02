@@ -1,4 +1,4 @@
-module github.com/banzaicloud/kafka-operator
+module github.com/matt-christiansen-exa/kafka-operator
 
 go 1.12
 
